@@ -24,5 +24,6 @@ Note: This document is by no means official, and is based on my experiences as a
 - Kyle Kissell's Art of Espionage series:
 	1. [Setting](https://www.facebook.com/notes/kyle-kissell/the-art-of-espionage-part-i-setting/10153314693616603)
 	2. [Premise](https://www.facebook.com/notes/kyle-kissell/art-of-espionage-ii-premise/10153327509811603)
+	3. [Brainstorming](https://www.facebook.com/notes/kyle-kissell/the-art-of-espionage-iii-brainstorming/10153343080931603)
 
 
