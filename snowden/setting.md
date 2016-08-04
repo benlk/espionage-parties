@@ -28,18 +28,36 @@ Parallel plot threads:
 	- a script asking the user to safely shut down the grid by pressing any key, then displaying the prompt to tell the GM
 - a pigeon's foot invisibility ward (with instructions)
 
-## Starting characters
+## Starting character Groups
 
-- Pat Young
-	- Reporter (brit)
-- Campaign Chair
+- Capital Laundry/Occult plit
+	- Pat Young
+	- Politics Reporter 1 (brit)
+	- Campaign Chair
+- Reelection plot
+	- Campaign Chair
 	- Veep
 	- Bodyguard
-- Moon Nazi Teacher
+	- Tabloid Reporter
+	- 
+- Moon Nazi plot
+	- Moon Nazi Teacher
 	- Moon Nazi Commander
-- Snowden
+- Snowden plot
+	- Snowden (Charlie Rainey)
 	- Reporter (Sarah Connor)
-- Seer
+- Terminator Plot
+	- Sarah Connor (Politics Reporter 2)
+	- Terminator
+	- Nanite Cloud
+- Dare Club members
+	- Politics Reporter 1
+	- Sarah Connor (Politics Reporter 2)
+	- Bodyguard
+- Seer metaplot
+	- Seer (should be an advanced player)
+	- Anyone, really
+	- DEATH
 
 ## Endgame characters
 
@@ -48,3 +66,7 @@ Parallel plot threads:
 2. Autonomous Nanite Cloud
 4. DEATH (Known to seer)
 3. Tabloid Reporter
+
+# Part list
+
+(Good luck, compile this from the player list when done)
