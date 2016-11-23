@@ -1,10 +1,8 @@
-
 ## History of world
 
 Time period:
 - Now.
 - The early stages of CASE NIGHTMARE GREEN. The stars are coming right and magic is becoming easy.
-- The coming of the Fourth Reich.
 - Election year, with a successful four-year president retiring due to scandal.
 
 Background information goes here
@@ -12,8 +10,7 @@ Background information goes here
 Parallel plot threads:
 
 - CASE NIGHTMARE GREEN
-- Moon Nazis
-- The upgrade election campaign of the Veep, and the campaign manager's efforts
+- Random British/US politics things going on
 - Snowden hunting for journalists
 - Journalists hunting for stories (GM as editor, maybe)
 
@@ -33,39 +30,28 @@ Parallel plot threads:
 - Capital Laundry/Occult plit
 	- Pat Young
 	- Politics Reporter 1 (brit)
-	- Campaign Chair
-- Reelection plot
-	- Campaign Chair
-	- Veep
+	- Charge d'affaires
+- Ambassadorial Plot
+	- Charge d'affaires
+	- Ambassador
 	- Bodyguard
 	- Tabloid Reporter
-	- 
-- Moon Nazi plot
-	- Moon Nazi Teacher
-	- Moon Nazi Commander
 - Snowden plot
 	- Snowden (Charlie Rainey)
 	- Reporter (Sarah Connor)
-- Terminator Plot
-	- Sarah Connor (Politics Reporter 2)
-	- Terminator
-	- Nanite Cloud
-- Dare Club members
-	- Politics Reporter 1
-	- Sarah Connor (Politics Reporter 2)
-	- Bodyguard
-- Seer metaplot
-	- Seer (should be an advanced player)
-	- Anyone, really
-	- DEATH
+
+## Soul groups
+
+- Red souls
+- Blue souls
+- Green souls
+	- Politics Reporter 1 (brit)
 
 ## Endgame characters
 
 0. Pat Young (successful | possessed)
-1. Terminator
-2. Autonomous Nanite Cloud
-4. DEATH (Known to seer)
-3. Tabloid Reporter
+1. Charge d'Affaires
+2. Snowden (Charlie Rainey)
 
 # Part list
 

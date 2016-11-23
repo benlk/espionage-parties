@@ -3,7 +3,7 @@
 flavor text goes here
 
 - [x] set it up
-- [ ] complete by surrounding it with christmas lights from upstairs
+- [ ] complete by filling the five slots with souls
 
 -----
 
