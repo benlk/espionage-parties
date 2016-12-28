@@ -4,28 +4,31 @@ Character traits:
 
 Personal history relevant to the party, and backstory.
 
-- You're a member of Dare Club, a daring club of adventurous people that's become quite the fad. When Dare Club members meet, they give each other sensible dares, and accept no new dares until they've completed the dare they received. They can dare other Dare Club members while dared, though.
+You've been stationed at this embassy for several years. You've got a good feel for the locals and a good working relationship with the local liasons.
 
 Positive relationships (at least one other character)
 
-- Secretly sleeping with Jamie Richards, the Veep's campaign chair: you're excellent partners
-- The Veep is a pretty good guy, you guess.
+- Secretly sleeping with Jamie Richards, the Charge d' Affaires: you're excellent partners
+- The Ambassador is a pretty good guy.
 
 Negative relationships (at least one other character)
 
+- The CIA Officer assigned to this embassy is a bit of a cold fish - they're never around and don't show up to anything related to that Agency
+
 Goals for the night:
 
-- Dare other Dare Club members, and complete your dares.
-- Protect the Vice President from all threats
+- Protect US Embassy personnel from all threats, foreign and domestic.
 - Express your romantic feelings towards the campaign chair in some way.
 
 Rumors about other characters:
 
 - A German wants to kill the Veep
-- Someone wants to sleep with the Veep
-- Someone wants to sleep with the campaign chair (That's you!)
+- Someone wants to sleep with the Ambassador
+- Someone wants to sleep with you!
 - The British reporter is a gossip and a flirt, and digging for dirt
 
 Plot-relevant props
 
-Short phrase describing their overriding thing to do in life:
+- use your phone to communicate with other bodyguards
+
+Short phrase describing their overriding thing to do in life: Protect your family

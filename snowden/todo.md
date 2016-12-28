@@ -4,6 +4,7 @@ needs a james jesus angleton for later in the game
 summoning circle needs to be actively drawing people into the party
 once summoning circle is broken, party no longer receives new people, but people stay as zombies: spend 5 minutes as dead and then pop back up.
 need ammo source that is not souls
+need a character who is very many elevels deep of secret agent: http://writing-prompt-s.tumblr.com/post/154417609920/youre-a-spy-at-the-height-of-the-cold-war-youve
 need to find Laundry name for their special response unit
 need reason/method for Secret Service/Marines to be there
 are there any other American mages?
@@ -15,4 +16,4 @@ are there any other American mages?
 needs reason why people won't leave party
 	rapid-onset blizzard
 	no cabs
-	embassy safe-hourse
+	embassy safe-house hours

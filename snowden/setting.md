@@ -27,14 +27,16 @@ Parallel plot threads:
 
 ## Starting character Groups
 
-- Capital Laundry/Occult plit
+- Capital Laundry/Occult plot
 	- Pat Young
 	- Politics Reporter 1 (brit)
 	- Charge d'affaires
+	- CIA Officer ( Black Chamber )
 - Ambassadorial Plot
 	- Charge d'affaires
 	- Ambassador
-	- Bodyguard
+	- Bodyguard (Charge d'affaires lover)
+	- Bodyguard 1 ( US/UK alignment option )
 	- Tabloid Reporter
 - Snowden plot
 	- Snowden (Charlie Rainey)
